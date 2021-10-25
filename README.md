@@ -1,6 +1,6 @@
 ## Hi everyone, I'm Gutemberg 👋
 
-*Data Analyst by Google and Computer Science at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
+*Data Analyst by Google and Computer Science student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=matardy.matardy)
